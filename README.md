@@ -20,8 +20,10 @@ Bu projede  Jsoup, HTML Parser, Glaede ve Webview kullanara bir haber uygulamas�
 ## Ekran Görüntüleri
 <div>
  
-  <img src="https://github.com/FurkanUrhann/NewsApp/assets/130754219/f1e0f866-fa75-4f60-b9ba-75de88bd198b" alt="Anasayfa" width="400">
-  <img src="https://github.com/FurkanUrhann/NewsApp/assets/130754219/cfd0611e-9581-48d6-9a13-11b7dbdd289b" alt="Acilanhaber" width ="400">
+  <img src="https://github.com/FurkanUrhann/NewsApp/assets/130754219/3a2015b1-0641-40aa-a51e-ad11e961e876" alt="Anasayfa" width="400">
+  <img src="https://github.com/FurkanUrhann/NewsApp/assets/130754219/196ef724-831a-4b50-9f86-79d0fd3263eb" alt="Acilanhaber" width ="400">
+
+
 
 </div>
 
