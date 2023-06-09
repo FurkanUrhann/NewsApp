@@ -1,5 +1,21 @@
 # NewsApp
-Bu projede Jsoup, HTML Parser, Webview kullanara bir haber uygulaması yaptım. Anasayfada "Haberler.com" üzerinden gerçek zamanlı olarak haberler getirilir ve haberin detayı Webwiew sayfası ile gösterilir.
+Bu projede  Jsoup, HTML Parser, Glaede ve Webview kullanara bir haber uygulaması yaptım. Anasayfada "Haberler.com" üzerinden gerçek zamanlı olarak haberler getirilir ve haberin detayı Webwiew sayfası ile gösterilir.
+
+## Kütüphaneler ve Özellikler
+<ul>
+  <li>Glade</li>
+  <li>Jsoup</li>
+ <li>HTML Parser</li>
+ <li>Webview</li>
+  
+</ul>
+
+## İçindekiler
+
+|    Uygulama İçindeki Sayfalar       |
+|-----------|
+| Anasayfa (Haberler Burada Görünür)  |
+| Haber Detay Sayfası   |
 
 ## Ekran Görüntüleri
 <div>
